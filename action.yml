@@ -1,6 +1,6 @@
-name: 'Setup .NET Core SDK'
-description: 'Used to build and publish .NET source. Set up a specific version of the .NET and authentication to private NuGet repository'
-author: 'GitHub'
+name: 'Setup .NET Core SDK for self hosted runners'
+description: 'Used to build and publish .NET source. Set up a specific version of the .NET and authentication to private NuGet repository. Forked from actions/setup-dotnet@v4.0.0'
+author: 'jasoncouture'
 branding:
   icon: play
   color: green
